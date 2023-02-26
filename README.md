@@ -12,8 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,unity,unreal,vscode,cpp,dotnet,cs,js,html,css,sass,git,github,linux,mysql,latex,)](https://skillicons.dev)
 
-<br />
-<br />
 
 ---
 
