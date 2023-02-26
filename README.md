@@ -10,7 +10,7 @@
 
 ### Technologies which I work or study 👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=py,unity,unreal,vscode,cs,js,html,css,sass,cpp,dotnet,linux,latex,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,unity,unreal,vscode,cpp,dotnet,cs,js,html,css,sass,git,github,linux,mysql,latex,)](https://skillicons.dev)
 
 <br />
 <br />
