@@ -5,7 +5,7 @@
 ### About me 😄
 
 - 🌱 I’m currently learning .NET and C++ with Unreal Engine 5
-- 👯 I'm looking to collaborate on Web Dev or Game Dev.
+- 👯 I'm looking to collaborate on Web Dev or Game Dev projects.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kacper-walczak-457980257/) 
 
 ### Technologies which I work or study 👨‍💻
