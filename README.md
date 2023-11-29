@@ -1,10 +1,10 @@
 ### Hi there, I'm Kacper 👋
 
-`IT Student | Data Science Student | Game Developer | Web Developer`
+` Game Developer | Web Developer`
 
 ### About me 😄
 
-- 🌱 I’m currently learning .NET and C++ with Unreal Engine 5
+- 🌱 I’m currently learning Node.js with React
 - 👯 I'm looking to collaborate on Web Dev or Game Dev projects.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kacper-walczak-457980257/) 
 
