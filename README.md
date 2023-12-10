@@ -1,10 +1,10 @@
 ### Hi there, I'm Kacper 👋
 
-` Game Developer | Web Developer`
+` Game Developer | Web Developer | Programming Coach`
 
 ### About me 😄
 
-- 🌱 I’m currently learning Node.js with React
+- 🌱 I’m currently learning Node.js with React, and C# with Unity
 - 👯 I'm looking to collaborate on Web Dev or Game Dev projects.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kacper-walczak-457980257/) 
 
